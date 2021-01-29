@@ -601,6 +601,8 @@ fieldset .legend-2 {
   min-height: 26px;
   min-width: 1200px;
   padding-top: 20px;
+  
+  background-color: #ffffff;
 }
 
 .sorting h2 {
